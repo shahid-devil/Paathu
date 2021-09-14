@@ -111,16 +111,7 @@
         "ALIVE_MESSAGE": {
             "description": "Customizable Alive Message! Use => default, to change back.",
             "required": false,
-            "value": "┈┏━╮╭━┓┈╭━━━━╮
-┈┃┏┗┛┓┃╭┫ B O T ┃
-┈╰┓▋▋┏╯╯╰━━━━╯
-╭━┻╮╲┗━━━━╮╭╮┈
-┃▎▎┃╲╲╲╲╲╲┣━╯┈
-╰━┳┻▅╯╲╲╲╲┃┈┈┈
-┈┈╰━┳┓┏┳┓┏╯┈┈┈
-┈┈┈┈┗┻┛┗┻┛┈┈┈┈
-
-```I Am Alive !!!```
+            "value": "```I Am Alive !!!```
 
 ```Type``` *.help* ```for commands```
 
