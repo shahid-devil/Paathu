@@ -2,14 +2,14 @@
 <div align="center">
   <img border-radius: 15px src="https://i.imgur.com/bXIs6fy.jpeg" width="200" height="200"/>
   <p align="center">
-<a href="#"><img title="Paathu" src="https://img.shields.io/badge/Paathu-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="shahanad-k" src="https://img.shields.io/badge/shahanad-k-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/Fasil-vkn"><img title="Author" src="https://img.shields.io/badge/Author-Fasil-vkn/Paathu?color=red&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/shahanad-k"><img title="Author" src="https://img.shields.io/badge/Author-shahanad-k/shahanad-k?color=red&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/Fasil-vkn">Fasil-vkn</a> to make it public
+Project created by <a href="https://github.com/shahanad-k">shahanad-k</a> to make it public
     <br>
        | © |
         Reserved |
@@ -19,18 +19,18 @@ Project created by <a href="https://github.com/Fasil-vkn">Fasil-vkn</a> to make 
 ----
 
   <p align="center">
-  <a href="httsp://github.com/Fasil-vkn/Paathu">
-    <img src="https://img.shields.io/github/repo-size/Fasil-vkn/Paathu?color=green&label=Repo%20total%20size&style=plastic">
+  <a href="httsp://github.com/shahanad-k/shahanad-k">
+    <img src="https://img.shields.io/github/repo-size/shahanad-k/shahanad-k?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/Fasil-vkn/followers"><img title="Followers" src="https://img.shields.io/github/followers/Fasil-vkn?color=blue&style=flat-square"></a>
-<a href="https://github.com/Fasil-vkn/Paathu/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Fasil-vkn/Paathu?color=green&style=flat-square"></a>
-<a href="https://github.com/Fasil-vkn/Paathu/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Fasil-vkn/Paathu?color=blue&style=flat-square"></a>
-<a href="https://github.com/Fasil-vkn/Paathu/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Fasil-vkn/Paathu?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/shahanad-k/followers"><img title="Followers" src="https://img.shields.io/github/followers/shahanad-k?color=blue&style=flat-square"></a>
+<a href="https://github.com/shahanad-k/shahanad-k/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/shahanad-k/shahanad-k?color=green&style=flat-square"></a>
+<a href="https://github.com/shahanad-k/shahanad-k/network/members"><img title="Forks" src="https://img.shields.io/github/forks/shahanad-k/shahanad-k?color=blue&style=flat-square"></a>
+<a href="https://github.com/shahanad-k/shahanad-k/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/shahanad-k/shahanad-k?label=Watchers&color=blue&style=flat-square"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-blue.svg"</a>
 </p>
   
        
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Fasil-vkn&repo=PublicBot&theme=nightowl)](https://github.com/Fasil-vkn/PublicBot)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shahanad-k&repo=PublicBot&theme=nightowl)](https://github.com/shahanad-k/PublicBot)
   </div>
     
 ## Setup
@@ -40,7 +40,7 @@ Project created by <a href="https://github.com/Fasil-vkn">Fasil-vkn</a> to make 
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Fasil-vkn/Paathu)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/shahanad-k/shahanad-k)
      </div>
 <br>
 <br >
@@ -55,8 +55,8 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/Fasil-vkn/Paathu
-$ cd Paathu 
+$ git clone https://github.com/shahanad-k/shahanad-k
+$ cd shahanad-k 
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -65,8 +65,8 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/Fasil-vkn/Paathu
-$ cd Paathu
+$ git clone https://github.com/shahanad-k/shahanad-k
+$ cd shahanad-k
 $ chmod +x *
 $ npm i
 $ node qr.js
@@ -86,11 +86,11 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![Fasil-vkn](https://github.com/Paathu-407x400.png?size=100)](https://github.com/Fasil-vkn) |  
+  [![shahanad-k](https://github.com/shahanad-k-407x400.png?size=100)](https://github.com/shahanad-k) |  
 
 
 
-[Fasil-vkn](https://github.com/Fasil-vkn) 
+[shahanad-k](https://github.com/shahanad-k) 
 
 Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
 
